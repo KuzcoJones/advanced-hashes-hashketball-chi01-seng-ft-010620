@@ -112,12 +112,11 @@ def big_shoe_rebounds (person_largest_shoe)
       if attribute == :players
         data.each do |player|
          banding.pry
-          end
+      
         end
       end
     end
   end
-  
 end
 
 
