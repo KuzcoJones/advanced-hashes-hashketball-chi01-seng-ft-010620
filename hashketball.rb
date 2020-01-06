@@ -123,5 +123,8 @@ def player_with_longest_name
 end
 
 def long_name_steals_a_ton
-  0 < 1
+  a= 2 
+  e =1
+  t = 5
+  a < t
 end
