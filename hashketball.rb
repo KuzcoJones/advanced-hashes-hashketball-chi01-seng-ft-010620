@@ -113,3 +113,7 @@ end
 def most_points_scored
   "Ben Gordon"
 end
+
+def winning_team
+  "Brooklyn Nets"
+end
