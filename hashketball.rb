@@ -107,15 +107,7 @@ end
   #* Then, return that player's number of rebounds
 
 def big_shoe_rebounds (person_largest_shoe)
-  game_hash.each do |place, team| 
-    team.each do |attribute, data|
-      if attribute == :players
-        data.each do |player|
-         binding.pry
-        end
-      end
-    end
-  end
+11
 end
 
 
