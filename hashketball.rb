@@ -111,7 +111,7 @@ def big_shoe_rebounds (person_largest_shoe)
     team.each do |attribute, data|
       if attribute == :players
         data.each do |player|
-         player.each { |:shoe, v| puts player_name if v == player.values.max }
+         player.each { |:shoe, v| puts :shoe if v == player.values.max }
         end
       end
     end
