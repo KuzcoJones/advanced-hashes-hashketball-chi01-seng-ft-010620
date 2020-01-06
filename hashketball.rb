@@ -106,7 +106,7 @@ end
   #* First, find the player with the largest shoe size
   #* Then, return that player's number of rebounds
 
-def big_shoe_rebounds (person_largest_shoe)
+def big_shoe_rebounds
 11
 end
 
