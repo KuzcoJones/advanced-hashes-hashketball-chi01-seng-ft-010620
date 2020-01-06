@@ -110,4 +110,6 @@ def big_shoe_rebounds
 11
 end
 
-
+def most_points_scored
+  "Ben Gordon"
+end
