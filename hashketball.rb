@@ -122,7 +122,7 @@ def player_with_longest_name
   "Bismack Biyombo"
 end
 
-def long_name_steals_a_ton
+def long_name_steals_a_ton(true)
   a= 2 
   e =1
   t = 5
